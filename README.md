@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Brandon, a software developer passionate about coding I like to leak code because people charge hundreds for trash[Git.SigmaGaming](https://git.sigmagaming.net).
+I'm Brandon, a software developer passionate about coding I like to leak code because people charge hundreds for trash [Git.SigmaGaming.net](https://git.sigmagaming.net).
 
 #### About Me
 
