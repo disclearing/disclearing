@@ -13,3 +13,4 @@ I'm Brandon, a software developer passionate about coding I like to leak code be
 - Twitter: [@gasthefrench](https://twitter.com/gasthefrench)
 - Personal Website: [memoryleaked.dev](https://www.memoryleaked.dev)
 - Discord : [My discord](https://discord.gg/ZYaFqZ66EA) [My Development Discord](https://discord.gg/BugzZxfnry)
+- Support me : [Buymeacoffee](https://buymeacoffee.com/zipforbdon)
