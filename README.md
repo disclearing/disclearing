@@ -1,10 +1,10 @@
 ### Hi there 👋
 
-I'm Brandon, a software developer passionate about coding I like to leak code because people charge hundreds for trash [Git.SigmaGaming.net](https://git.sigmagaming.net).
+I'm Brandon, a software developer passionate about coding.
 
 #### About Me
 
-- 🔭 I’m currently working on exciting projects at [HitlerStack](https://hitler.vip),[MemeoryLeaked Pics](https://pics.memoryleaked.dev/)
+- 🔭 I’m currently working on exciting projects at [HitlerStack](https://hitler.vip),[MemeoryLeaked Pics](https://pics.memoryleaked.dev/),[DirectLeaks](https://directleaks.net/)
 - 🌱 I’m constantly learning and improving my coding skills.
 - ⚡ Fun fact: I enjoy a bit of downtime with some herbal relaxation.
 
