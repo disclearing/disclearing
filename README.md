@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Brandon, a software developer passionate about coding.
+I'm Brandon, a software developer passionate about coding.also [SigmaGit](https://git.sigmagaming.net/Brandon)
 
 #### About Me
 
